@@ -1,0 +1,5 @@
+.floydexpt
+.floydignore
+.venv
+.ipynb_checkpoints
+*.pyc
