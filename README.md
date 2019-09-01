@@ -24,4 +24,5 @@ The training results can be found in `\train_result`
 
 # Working paper
 
-A working paper about this is under work and will be published soon in 2019.
+Working paper about this project is avaliable in SSRN
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3404863
